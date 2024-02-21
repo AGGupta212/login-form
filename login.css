@@ -1,0 +1,59 @@
+.for-form{
+
+   color: rgb(14, 23, 89);
+   text-align: center;
+   width: 30%;
+
+
+   margin-left: 20%;
+   margin-top: 10% ;
+   margin-left: 30%;
+   margin-right: 10%;
+   background-color: rgb(123, 232, 90);
+   border: 2px solid rgb(255, 255, 255);
+   box-shadow: 15px 15px 10px rgb(0, 0, 0);
+   border-radius: 10px;
+   width: 400px;
+   height: 350px;
+
+}
+.to-use{
+
+background-color: rgb(66, 105, 41); 
+margin-top: 10%;
+
+
+
+}
+.to-form {
+
+
+   text-align: left;
+   padding-left: 20%;
+
+
+
+}
+.for-button {
+
+   
+   border: rgb(0, 0, 0);
+   padding-top: 30px;
+}
+
+button{
+
+  background-color: rgb(194, 131, 193);
+  border-color: chartreuse;
+  width: 90px;
+  height: 30px;
+  border-radius: 10px;
+}
+button:hover{
+
+background-color: rgb(105, 7, 110);
+  width: 190px;
+  height: 30px;
+  border-radius: 10px;
+
+}
